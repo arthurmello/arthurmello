@@ -1,10 +1,10 @@
-# 👋 Hi, I’m @arthurmello
+# Hi, I’m @arthurmello
 
 - **Data scientist** and **educator**. I help companies solve **marketing** problems using **data analysis** and **machine learning**.
 - I code in **Python** and **SQL**, and can do some **HTML/CSS** and **R**.
 - I have a passion for **teaching** and **writing**.
 
-🤝 You can reach me on arthur.bmello@gmail.com or any of the channels below:
+You can reach me on arthur.bmello@gmail.com or any of the channels below:
 
 <p align="center">
 <br>
