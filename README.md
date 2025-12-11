@@ -9,6 +9,7 @@ You can reach me on any of the channels below:
 
 <p align="center">
 <br>
+  <a href="https://arthurmello.ai/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge" alt="Website"></a>
   <a href="https://www.linkedin.com/in/melloarthur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://the-signal.blog/"><img src="https://img.shields.io/badge/The%20Signal-000000?style=for-the-badge&logo=rss&logoColor=white" alt="The Signal"></a>
   <a href="https://substack.com/@arthurmello1"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>
